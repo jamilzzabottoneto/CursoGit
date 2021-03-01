@@ -10,6 +10,11 @@ namespace ProjetoTeste
             Console.WriteLine("Bom Dia");
             Console.WriteLine("Boa Tarde");
             Console.WriteLine("Boa Noite");
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
